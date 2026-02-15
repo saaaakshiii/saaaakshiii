@@ -36,5 +36,5 @@ Git | GitHub | Firebase | VS Code | Postman
 
 ## 📫 How to Reach Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
+📧 Email: sakshi23042005@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/sakshi-singh-gautam-5b3111290/)
