@@ -24,7 +24,7 @@ C++ (DSA) | Python | JavaScript  | Java
 React.js | HTML | CSS | Bootstrap | Tailwind  | Reactnative
 
 **Backend:**  
-Node.js | Express.js  | Django | Flask
+Node.js | Express.js  | Django | Flask | Redis
 
 **Database:**  
 MongoDB | MySQL  | PostgreSQL
