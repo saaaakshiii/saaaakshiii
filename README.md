@@ -18,16 +18,16 @@ I believe in:
 ## 🛠 Tech Stack & Tools
 
 **Languages:**  
-C++ (DSA) | Python | JavaScript  
+C++ (DSA) | Python | JavaScript  | Java
 
 **Frontend:**  
-React.js | HTML | CSS | Bootstrap | Tailwind  
+React.js | HTML | CSS | Bootstrap | Tailwind  | Reactnative
 
 **Backend:**  
-Node.js | Express.js  
+Node.js | Express.js  | Django | Flask
 
 **Database:**  
-MongoDB | MySQL  
+MongoDB | MySQL  | PostgreSQL
 
 **Tools & Platforms:**  
 Git | GitHub | Firebase | VS Code | Postman  
